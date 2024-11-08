@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm David Abdallah</h1>
 <h3 align="center">Cloud and DevOps Engineer</h3>
 
-- 🔭 I’m currently working on **Migration from on-prem to public cloud**
-
-- 🌱 I’m currently learning **OpenShift**
+- 🔭 I’m currently working on **Migration from on-prem to public cloud Using DevOps best practice**
 
 - 👯 I’m looking to collaborate on **DevOps projects**
 
-- 💬 Ask me about **AWS**
+- 💬 Ask me about **AWS, GCP, Kubernetes, Terraform, and CI/CD**
+
+- 🌱 I’m currently learning **OpenShift**
 
 - 📫 How to reach me **dav.abdallah@outlook.com**
 
